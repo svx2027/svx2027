@@ -30,7 +30,30 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
 
 ---
 
-The tools I run privately for clients are landing here through August and
-September 2026 as public, genericized versions. Watch this space.
+## Live now
+
+- [the-toolshed](https://github.com/svx2027/the-toolshed): my site plus a shed
+  of tiny share-first web tools, live at shivamvashisth.com (Next.js 16)
+- [shivam-download-files](https://github.com/svx2027/shivam-download-files):
+  Spotlight-style public file vault with Postgres full-text + typo-tolerant
+  search and signed-URL downloads, live at files.shivamvashisth.com
+- [yt-transcript-translator](https://github.com/svx2027/yt-transcript-translator):
+  paste a YouTube URL, get the transcript in fluent English (FastAPI + Claude)
+- [yt-daily-brief](https://github.com/svx2027/yt-daily-brief): a scheduled
+  agent writes a daily brief on what is overperforming in tech/AI YouTube
+
+## In flight (Aug-Sep 2026)
+
+The heavier production tooling I run privately is landing here as public,
+genericized versions, roughly one meaningful commit a day:
+
+- **yt-mastersheet-kit**: config-driven channel tracker on yt-dlp, verified
+  paste-ready reporting with zero API quota
+- **yt-competitor-swipe**: daily competitive intelligence with opportunity
+  scoring across dozens of channels, plus a live dashboard
+- **yt-playlist-seo-pipeline**: safety-gated bulk metadata and chapter
+  optimization that re-optimized 384 videos on a live channel
+- and more: competitor research playbooks, a bulk-metadata kit with revert
+  insurance, ASR clip cutters, an Instagram taste engine
 
 🔗 [shivamvashisth.com](https://shivamvashisth.com)
