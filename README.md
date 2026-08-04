@@ -41,6 +41,9 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
   paste a YouTube URL, get the transcript in fluent English (FastAPI + Claude)
 - [yt-daily-brief](https://github.com/svx2027/yt-daily-brief): a scheduled
   agent writes a daily brief on what is overperforming in tech/AI YouTube
+- [podcast-repurposing-engine](https://github.com/svx2027/podcast-repurposing-engine):
+  turn one long-form podcast into a batch of goal-targeted short-form reels that
+  drive product sales and organic reach (Whisper + LLM verification + Chrome PDFs)
 
 ## In flight (Aug-Sep 2026)
 
