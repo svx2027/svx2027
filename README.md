@@ -9,6 +9,8 @@ publishing decisions.
 
 ## What I build
 
+- **Creator script ops**: brief 15+ education creators at once from per-creator
+  voice profiles, a locked SEO brief format, and a drafted-to-published ledger
 - **Channel trackers**: weekly reporting pipelines (YouTube Data API + yt-dlp)
   that independently re-derive every number before anything ships
 - **Competitive intelligence**: automated daily scans of 40+ channels with
@@ -44,6 +46,11 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
 - [podcast-repurposing-engine](https://github.com/svx2027/podcast-repurposing-engine):
   turn one long-form podcast into a batch of goal-targeted short-form reels that
   drive product sales and organic reach (Whisper + LLM verification + Chrome PDFs)
+
+- [multi-creator-script-engine](https://github.com/svx2027/multi-creator-script-engine):
+  brief 15+ education creators in an afternoon from per-creator voice profiles, a
+  locked SEO brief format with two standing CTAs, production codes, and a
+  drafted-to-published ledger
 
 ## In flight (Aug-Sep 2026)
 
