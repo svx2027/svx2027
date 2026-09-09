@@ -34,6 +34,9 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
 
 ## Live now
 
+Recently shipped: [playlist-extract-pipeline](https://github.com/svx2027/playlist-extract-pipeline),
+a YouTube playlist metadata extraction, repair, and vault pipeline.
+
 - [the-toolshed](https://github.com/svx2027/the-toolshed): my site plus a shed
   of tiny share-first web tools, live at shivamvashisth.com (Next.js 16)
 - [shivam-download-files](https://github.com/svx2027/shivam-download-files):
