@@ -34,7 +34,7 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
 
 ## The full tool index
 
-15 public repos, one real working pipeline or product each, shipped roughly
+16 public repos, one real working pipeline or product each, shipped roughly
 one meaningful commit a day since Jul 2026. Every README states what's
 verified versus what's honestly unproven — no invented metrics.
 
@@ -60,9 +60,12 @@ verified versus what's honestly unproven — no invented metrics.
 - [yt-bulk-metadata-kit](https://github.com/svx2027/yt-bulk-metadata-kit):
   bulk-updates titles, descriptions, tags, and comments across a playlist via
   OAuth and the Data API v3, with snapshot/revert and independent verification
+- [youtube-intel-mcp](https://github.com/svx2027/youtube-intel-mcp): packages
+  the competitor-intelligence engine (opportunity score, demand gap, topic
+  tagging) as an MCP server, so any MCP client can call it as tools
 - [playlist-extract-pipeline](https://github.com/svx2027/playlist-extract-pipeline):
   turns your own playlists into a structured dataset (metadata, thumbnails,
-  transcripts) with a resumable extract-then-repair loop — newest addition
+  transcripts) with a resumable extract-then-repair loop
 - [yt-transcript-translator](https://github.com/svx2027/yt-transcript-translator):
   paste a YouTube URL, get the transcript in fluent English (FastAPI + Claude)
 
@@ -88,11 +91,12 @@ verified versus what's honestly unproven — no invented metrics.
   Spotlight-style public file vault with Postgres full-text + typo-tolerant
   search and signed-URL downloads, live at files.shivamvashisth.com
 
-## Next up
+## Case studies
 
-- Case studies on shivamvashisth.com walking through the harder pipelines
-  end to end
-- **youtube-intel-mcp**: packaging the competitor-intelligence engine as an
-  MCP server
+Two write-ups on shivamvashisth.com walk through the harder pipelines end to
+end: [the daily-competitive-intelligence scan](https://shivamvashisth.com/case-studies/daily-competitive-intelligence/)
+(yt-competitor-swipe) and [verify-before-deliver](https://shivamvashisth.com/case-studies/verify-before-deliver/)
+(yt-mastersheet-kit). More are landing as the underlying repos are ready for
+the traffic.
 
 🔗 [shivamvashisth.com](https://shivamvashisth.com)
