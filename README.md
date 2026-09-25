@@ -1,30 +1,44 @@
 # Hi, I'm Shivam Vashisth
 
-**YouTube strategist who ships automation.**
+**YouTube strategist. Journalist by training. Self-taught builder.**
 
-I run growth and content strategy for education channels at million-plus views
-a month scale, and I build the tooling myself: data pipelines, competitive
-intelligence systems, and AI-assisted workflows that turn platform data into
-publishing decisions.
+I run YouTube strategy for a large exam-prep education brand in India: research,
+packaging, script briefs for 13 faculty, and the numbers management reads every week.
+
+I have no computer science degree. When the team needed data nobody was producing,
+I learned to build it, with Claude Code as my pair. Every repo below started as a
+problem at work that had no tool yet. If I don't know how to do something, I figure
+it out, and I own it until it works.
+
+**Portfolio: [yt.shivamvashisth.com](https://yt.shivamvashisth.com)** (results, how I work, and how to work with me)
 
 ## What I build
 
-- **Creator script ops**: brief 15+ education creators at once from per-creator
+- **Creator script ops**: briefs for 13 faculty plus guest creators from per-creator
   voice profiles, a locked SEO brief format, and a drafted-to-published ledger
 - **Channel trackers**: weekly reporting pipelines (YouTube Data API + yt-dlp)
-  that independently re-derive every number before anything ships
-- **Competitive intelligence**: automated daily scans of 40+ channels with
-  opportunity scoring, comment mining, and a live dashboard
-- **Metadata at scale**: a safety-gated bulk SEO pipeline that re-optimized
-  384 videos on a live channel, with snapshot-and-revert insurance and
-  canary-then-batch rollouts
-- **Media automation**: local Whisper clip cutters, caption-to-cutsheet
-  builders, thumbnail and outlier analysis
+  that re-derive every number a second way before anything ships
+- **Competitive intelligence**: daily scans of 40+ channels with opportunity
+  scoring, comment mining, and a live dashboard
+- **Metadata at scale**: a safety-gated SEO pipeline that re-optimized 384 videos
+  on a live channel, with snapshot-and-revert and canary-then-batch rollouts
+- **Media automation**: local Whisper clip cutters, caption-to-cut-sheet builders,
+  thumbnail and outlier analysis
+
+## How I got here
+
+- **Journalist by training**: TV, print and digital, behind the camera on scripts
+  and in front of it on ad campaigns
+- **Sales and client servicing** in fintech and finance ed-tech, with real money
+  on the line
+- **Builder by necessity**: learned Python, APIs and agentic workflows on the job,
+  one shipped pipeline at a time
 
 ## Stack
 
-Python, TypeScript/Next.js, YouTube Data API v3, yt-dlp, Whisper (MLX),
-Claude and Gemini APIs, Supabase/Postgres, Vercel, MCP and agentic workflows.
+Python, TypeScript/Next.js, Astro, YouTube Data API v3, yt-dlp, Whisper (MLX),
+ffmpeg, Claude Code, Codex, Claude and Gemini APIs, MCP servers,
+Supabase/Postgres, Vercel, OBS Studio.
 
 ## Domains
 
@@ -36,7 +50,7 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
 
 16 public repos, one real working pipeline or product each, shipped roughly
 one meaningful commit a day since Jul 2026. Every README states what's
-verified versus what's honestly unproven — no invented metrics.
+verified versus what's honestly unproven. No invented metrics.
 
 **YouTube pipelines**
 - [yt-daily-brief](https://github.com/svx2027/yt-daily-brief): a scheduled
@@ -82,7 +96,7 @@ verified versus what's honestly unproven — no invented metrics.
 **Other platforms**
 - [ig-taste-engine](https://github.com/svx2027/ig-taste-engine): turns your
   own saved Instagram reels into a structured taste dataset (capture,
-  transcribe, OCR on-screen text) — read-only, human-paced
+  transcribe, OCR on-screen text), read-only and human-paced
 
 **Web products**
 - [the-toolshed](https://github.com/svx2027/the-toolshed): my site plus a
@@ -99,4 +113,4 @@ end: [the daily-competitive-intelligence scan](https://shivamvashisth.com/case-s
 (yt-mastersheet-kit). More are landing as the underlying repos are ready for
 the traffic.
 
-🔗 [shivamvashisth.com](https://shivamvashisth.com)
+[yt.shivamvashisth.com](https://yt.shivamvashisth.com) (portfolio) and [shivamvashisth.com](https://shivamvashisth.com) (tools and case studies)
