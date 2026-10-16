@@ -113,4 +113,8 @@ end: [the daily-competitive-intelligence scan](https://shivamvashisth.com/case-s
 (yt-mastersheet-kit). More are landing as the underlying repos are ready for
 the traffic.
 
+[How this portfolio builds itself](https://shivamvashisth.com/how-this-portfolio-builds-itself/)
+walks through the process behind every repo above: the four-step port and the
+three-role gate that has to agree before anything here goes public.
+
 [yt.shivamvashisth.com](https://yt.shivamvashisth.com) (portfolio) and [shivamvashisth.com](https://shivamvashisth.com) (tools and case studies)
