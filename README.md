@@ -110,11 +110,13 @@ verified versus what's honestly unproven. No invented metrics.
 
 ## Case studies
 
-Two write-ups on shivamvashisth.com walk through the harder pipelines end to
+Four write-ups on shivamvashisth.com walk through the harder pipelines end to
 end: [the daily-competitive-intelligence scan](https://shivamvashisth.com/case-studies/daily-competitive-intelligence/)
-(yt-competitor-swipe) and [verify-before-deliver](https://shivamvashisth.com/case-studies/verify-before-deliver/)
-(yt-mastersheet-kit). More are landing as the underlying repos are ready for
-the traffic.
+(yt-competitor-swipe), [verify-before-deliver](https://shivamvashisth.com/case-studies/verify-before-deliver/)
+(yt-mastersheet-kit), [proving a bulk update without the password](https://shivamvashisth.com/case-studies/prove-it-without-the-password/)
+(yt-bulk-metadata-kit), and [why a clean transcript isn't proof the audio is](https://shivamvashisth.com/case-studies/a-clean-transcript-is-not-proof/)
+(livestream-clip-cutter). More are landing as the remaining repos are ready
+for the traffic.
 
 [How this portfolio builds itself](https://shivamvashisth.com/how-this-portfolio-builds-itself/)
 walks through the process behind every repo above: the four-step port and the
