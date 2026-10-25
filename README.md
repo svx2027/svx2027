@@ -48,7 +48,7 @@ EdTech, FinTech, AI. Media background, data-engineering habits.
 
 ## The full tool index
 
-16 public repos, one real working pipeline or product each, shipped roughly
+17 public repos, one real working pipeline or product each, shipped roughly
 one meaningful commit a day since Jul 2026. Every README states what's
 verified versus what's honestly unproven. No invented metrics.
 
@@ -92,6 +92,9 @@ verified versus what's honestly unproven. No invented metrics.
 - [multi-creator-script-engine](https://github.com/svx2027/multi-creator-script-engine):
   runs script production for 15+ creators at once from per-creator voice
   profiles, a locked SEO brief format, and a production ledger
+- [creator-ai-skill-system](https://github.com/svx2027/creator-ai-skill-system):
+  AI skills for carousels, posts, replies and podcast openings, each output
+  checked against its source and a list of AI tells before anyone sees it
 
 **Other platforms**
 - [ig-taste-engine](https://github.com/svx2027/ig-taste-engine): turns your
